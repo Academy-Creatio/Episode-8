@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "0ec9335f-0222-47d3-bb9c-752910dd0043",
+    "PackageVersion": "7.8.0",
+    "Name": "HowToButtons",
+    "ModifiedOnUtc": "\/Date(1618327339000)\/",
+    "Maintainer": "Customer",
+    "Description": "Academy TechHour Episode\nHow to buttons\nhttps://github.com/Academy-Creatio/Episode-8.git",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}
